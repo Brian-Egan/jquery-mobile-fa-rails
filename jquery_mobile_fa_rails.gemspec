@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["ahaymond@middil.com"]
   gem.description   = %q{Extend the jQuery Mobile icons with Font Awesome 2.0 in your rails app}
   gem.summary       = %q{Extending the jQuery Mobile icons}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/ahaymond/jquery-mobile-fa-rails"
 
   gem.add_dependency "jquery_mobile_rails", ">= 1.2.0"
 
