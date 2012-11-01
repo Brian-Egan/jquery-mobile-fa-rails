@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.version       = JqueryMobileFaRails::VERSION
   gem.authors       = ["Adam Haymond"]
   gem.email         = ["ahaymond@middil.com"]
-  gem.description   = %q{Extend the jQuery Mobile icons with Font Awesome 2.0 in your rails app}
+  gem.description   = %q{Extend the jQuery Mobile icons with Font Awesome 2.0 in your Rails app}
   gem.summary       = %q{Extending the jQuery Mobile icons}
   gem.homepage      = "https://github.com/ahaymond/jquery-mobile-fa-rails"
 
