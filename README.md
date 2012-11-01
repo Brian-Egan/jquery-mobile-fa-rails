@@ -43,6 +43,8 @@ Once you have included the CSS file you can incorporate all of the Font Awesome 
 </ul>
 ```
 
+When using this particular icon pack do not use *icon* in front of the icon name in order to use that particular one. Only the name is needed (i.e. refresh, glass, music, envelope)
+
 ## Examples
 
 [View the Original Icons](http://andymatthews.net/code/jQuery-Mobile-Icon-Pack/original/) | [View the Font Awesome Icons](http://andymatthews.net/code/jQuery-Mobile-Icon-Pack/font-awesome/)
